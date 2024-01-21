@@ -1,2 +1,2 @@
 # Estructura de Datos y Algoritmos I
-Curso de Estructura de datos y algoritmos 1
+Notas de clase del curso Estructuras de Datos y Algoritmos 1
